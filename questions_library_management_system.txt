@@ -1,0 +1,25 @@
+-- 1. Retrieve All Books Issued by a Specific Employee 
+-- Objective: Select all books issued by the employee with emp_id = 'E101'.
+
+
+-- 2. Members Who Have Issued More Than One Book 
+-- Objective: Use GROUP BY to find members who have issued more than one book.
+
+
+-- 3. Retrieve All Books in a Specific Category:
+
+
+-- 4. Find Total Rental Income by Category:
+
+
+-- 5. List Members Who Registered in the Last 180 Days:
+
+
+-- 6. List Employees with Their Branch Manager's Name and their branch details:
+
+
+-- 7. active members,who have issued at least one book in the last 7 months.
+
+
+-- 8. Write a query to find the top 3 employees who have processed the most book issues. 
+-- Display the employee name, number of books processed, and their branch.
